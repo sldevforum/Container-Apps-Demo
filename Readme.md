@@ -199,22 +199,3 @@ az containerapp ingress traffic set \
 ✅ Ready for future enhancements like **autoscaling**, **private networking**, **canary deployments**, and **observability**.
 
 ---
-
-# 🔥 Author
-
-- Demo project created for learning Azure Container Apps 🚀  
-- Based on best practices for cloud-native microservices deployment.  
-- Feel free to fork, star ⭐, and extend it!
-
----
-
-# ✅ That's it! 
-
-Now your README is **complete, professional, and GitHub-ready**! 🎯
-
----
-
-Would you like me to also show you how to add a **cool GitHub "Deploy to Azure" Button**? 😎  
-👉 It lets anyone deploy this app to Azure **in one click** directly from your repo! 🚀  
-*(Super cool for public projects!)*  
-Want me to show you? 🎯✨
