@@ -6,11 +6,11 @@
 ## 1. 🔹 Set Environment Variables
 
 ```bash
-ACR_NAME="azurecontainerdemo"
-RESOURCE_GROUP="demo-azure-container-apps"
-LOCATION="centralus"
-APP_NAME="demoappchmaps2025"
-ENV="demoappchmaps2025"
+ACR_NAME=""
+RESOURCE_GROUP=""
+LOCATION=""
+APP_NAME=""
+ENV=""
 ```
 
 ---
